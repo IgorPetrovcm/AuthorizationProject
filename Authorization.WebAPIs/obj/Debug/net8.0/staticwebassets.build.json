@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "PO8czO2f+n8wITzzxQ2opNRESVmD3QxXAcIauVb9sBM=",
+  "Source": "Authorization.WebAPIs",
+  "BasePath": "_content/Authorization.WebAPIs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Authorization.WebAPIs\\wwwroot",
+      "Source": "Authorization.WebAPIs",
+      "ContentRoot": "C:\\Users\\igorp\\Programming\\WebAPI\\WebAPI\\Authorization\\Authorization.WebAPIs\\wwwroot\\",
+      "BasePath": "_content/Authorization.WebAPIs",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\igorp\\Programming\\WebAPI\\WebAPI\\Authorization\\Authorization.WebAPIs\\wwwroot\\js\\login.js",
+      "SourceId": "Authorization.WebAPIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorp\\Programming\\WebAPI\\WebAPI\\Authorization\\Authorization.WebAPIs\\wwwroot\\",
+      "BasePath": "_content/Authorization.WebAPIs",
+      "RelativePath": "js/login.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\login.js"
+    },
+    {
+      "Identity": "C:\\Users\\igorp\\Programming\\WebAPI\\WebAPI\\Authorization\\Authorization.WebAPIs\\wwwroot\\js\\registeration.js",
+      "SourceId": "Authorization.WebAPIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorp\\Programming\\WebAPI\\WebAPI\\Authorization\\Authorization.WebAPIs\\wwwroot\\",
+      "BasePath": "_content/Authorization.WebAPIs",
+      "RelativePath": "js/registeration.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\registeration.js"
+    }
+  ]
+}
